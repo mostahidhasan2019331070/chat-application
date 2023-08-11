@@ -65,7 +65,7 @@ const chats = [
       groupAdmin: {
         name: "Guest User",
         email: "guest@example.com",
-      },
+      },  
     },
     {
       isGroupChat: false,
@@ -106,4 +106,5 @@ const chats = [
       },
     },
   ];
+  
   module.exports = chats;

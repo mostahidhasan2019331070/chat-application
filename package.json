@@ -17,7 +17,10 @@
   },
   "homepage": "https://github.com/mostahidhasan2019331070/chat-application#readme",
   "dependencies": {
+    "dotenv": "^16.3.1",
     "express": "^4.18.2",
-    "nodemon": "^3.0.1"
+    "nodemon": "^3.0.1",
+    "react": "^18.2.0",
+    "yarn": "^1.22.19"
   }
 }
